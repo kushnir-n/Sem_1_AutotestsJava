@@ -15,7 +15,6 @@
     </properties>
 
     <dependencies>
-        <!-- Лекция 1.Зависимости junit -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
